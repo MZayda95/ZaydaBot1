@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+
+body {
+  background-color: white;
+  text-align: center;
+  font-family: 'Quintessential', cursive;
+  padding: 80px;
+  background-image: linear-gradient(#145f7c, #e1fafd);
+  min-height: 100vh;
+  margin: 0;
+}
+
+.poster {
+  background-color: #e1fafd;
+  border-radius: 50%;
+  padding: 40px;
+  width: 300px;
+  margin: 0 auto;
+  box-shadow: 0 6px 18px rgba(15, 42, 53, 0.736);
+}
+
+.poster h1 {
+  color: #104960;
+  font-size: 32px;
+  font-weight: 900;
+  margin-bottom: 15px;
+}
+
+.poster p {
+  color: #145f7c;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: 500;
+}
